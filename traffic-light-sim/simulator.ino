@@ -277,7 +277,7 @@ void setup() {
     
     Serial.println("Traffic Light Simulation :-)!");
     Serial.println("Press pedestrian button or trigger PIR sensor to request crossing");
-	Serial.println("Otherwise you are doomed to stay here. :(")
+	Serial.println("Otherwise you are doomed to stay here. :(");
 }
 
 /* --- Main Loop --- */
